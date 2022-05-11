@@ -1,2 +1,2 @@
-# mask_detection
+# Mask_Detection
 YOLOv5
